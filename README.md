@@ -1,2 +1,2 @@
-# Hello-World-
+# Practice
 Repo to test Git.
